@@ -1,0 +1,22 @@
+site_name: Casa Rosa
+site_description: Informationen für unsere Gäste
+site_url: https://yannstricker.github.io/casarosa
+
+theme:
+  name: material
+  language: de
+  palette:
+    primary: blue
+    accent: light blue
+
+nav:
+  - Startseite: index.md
+  - Ankunft & Abreise: ankunft-abreise.md
+  - Infos zur Wohnung: wohnung.md
+  - Ausflugsideen & Tipps: ausfluege-tipps.md
+
+markdown_extensions:
+  - admonition
+  - tables
+  - toc:
+      permalink: true
