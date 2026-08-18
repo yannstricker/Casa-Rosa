@@ -11,7 +11,7 @@
 - Warmwasser/Heizung: Schwarzes Plastikfenster am Boiler von unten nach oben öffnen.
 Hauptschalter (2. von links, rund) auf Position Sommer (für Warmwasser) 
 oder Winter (für Heizung) stellen.
-:x: Unten am Boiler NICHTS verstellen!
+Unten am Boiler NICHTS verstellen!
 
 
 # ABREISE
@@ -64,11 +64,4 @@ unten arretieren. Rollladen herunterlassen.
 Adresse 
 
 Via Don Casella 4, 16035 Rapallo (GE) – Italia
-
-
-
-Sanitär	Massimo GIAVINA, Via delle Libertà 104, 0185/63885  /  335/6456792
-Boiler		Montanari Sicurcalor; Via Lamarmora 9, 0185/231282
-Rollladen	Davide CONDOMO, Via San Pietro di Novella 38, 0185/261427
-Küche	Massimo GIAVINA, Via delle Libertà 104, 0185/63885  /  335/6456792
 
