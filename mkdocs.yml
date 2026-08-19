@@ -5,6 +5,7 @@ site_url: https://yannstricker.github.io/casarosa
 theme:
   name: material
   language: de
+  custom_dir: docs/overrides
   palette:
     primary: blue
     accent: light blue
