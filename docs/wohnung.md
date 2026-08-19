@@ -5,5 +5,8 @@ Von der Schweiz aus ist Rapallo mit dem Zug sehr gut erreichbar (u.a. mit tägli
 
 
 ## Zimmer & Ausstattung
-Die Casa Rosa ist eine kleine, feine Dreizimmerwohung, die sich seit vier Generationen im Familienbesitz befindet. Neben einem etwas grösserem Wohnzimmer mit Tisch und Sofa, gibt es ein Schlafzimmer mit Doppelbett und ein weiteres kleines Schlafzimmer mit einem Bett (und einer zusätzlichen Matratze). Die Küche ist voll ausgestattet. Die Wohnung verfügt ausserdem über eine Waschmaschine (in der Küche). /
+Die Casa Rosa ist eine kleine, feine Dreizimmerwohung, die sich seit vier Generationen im Familienbesitz befindet. Neben einem etwas grösserem Wohnzimmer mit Tisch und Sofa, gibt es ein Schlafzimmer mit Doppelbett und ein weiteres kleines Schlafzimmer mit einem Bett (und einer zusätzlichen Matratze). 
+
+Die Küche ist voll ausgestattet. Die Wohnung verfügt ausserdem über eine Waschmaschine (in der Küche). 
+
 Zur Wohnung gehört eine grosszügige Dachterasse, die über eine private Aussentreppe zugänglich ist. 
