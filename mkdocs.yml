@@ -1,6 +1,6 @@
 site_name: Casa Rosa
 site_description: Informationen für unsere Gäste
-site_url: https://yannstricker.github.io/casarosa
+site_url: https://yannstricker.github.io/Casa-Rosa/
 
 theme:
   name: material
@@ -10,6 +10,10 @@ theme:
     primary: blue
     accent: light blue
 
+plugins:
+  - search
+  - glightbox
+  
 nav:
   - Startseite: index.md
   - Ankunft & Abreise: ankunft-abreise.md
@@ -19,5 +23,8 @@ nav:
 markdown_extensions:
   - admonition
   - tables
+  - attr_list
+  - md_in_html
+  - pymdownx.blocks.caption
   - toc:
       permalink: true
