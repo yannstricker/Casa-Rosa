@@ -16,6 +16,7 @@ plugins:
   
 nav:
   - Panoramica: index.md
+  - Reservationen: belegung.md
   - Infos zur Wohnung: wohnung.md
   - Ankunft & Abreise: ankunft-abreise.md
   - Ausflugsideen & Tipps: ausfluege-tipps.md
