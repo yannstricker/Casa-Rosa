@@ -15,9 +15,9 @@ plugins:
   - glightbox
   
 nav:
-  - Startseite: index.md
-  - Ankunft & Abreise: ankunft-abreise.md
+  - Panoramica: index.md
   - Infos zur Wohnung: wohnung.md
+  - Ankunft & Abreise: ankunft-abreise.md
   - Ausflugsideen & Tipps: ausfluege-tipps.md
 
 markdown_extensions:
