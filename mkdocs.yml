@@ -5,8 +5,8 @@ site_url: https://yannstricker.github.io/Casa-Rosa/
 theme:
   name: material
   font:
-    text: Mostra Nuova
-
+    text: Roboto
+    
   language: de
   custom_dir: docs/overrides
   palette:
