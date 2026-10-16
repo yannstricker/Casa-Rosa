@@ -10,8 +10,8 @@ theme:
   language: de
   custom_dir: docs/overrides
   palette:
-    primary: blue
-    accent: light blue
+    primary: cyan
+    accent: light cyan
 
 plugins:
   - search
