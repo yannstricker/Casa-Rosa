@@ -10,8 +10,8 @@ theme:
   language: de
   custom_dir: docs/overrides
   palette:
-    primary: orange
-    accent: light orange
+    primary: pink
+    accent: light pink
 
 plugins:
   - search
